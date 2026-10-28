@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+# Clave de la service account: nunca al repo
+secrets/
